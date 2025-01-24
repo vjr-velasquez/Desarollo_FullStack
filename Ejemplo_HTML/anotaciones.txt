@@ -1,0 +1,29 @@
+los nombres no llevan caracteres especiales, no espacios en blanco
+y tienen que ser nombres significativos
+
+- el index es lo primero que se va a buscar en un sitio web
+
+- el pluggin de las abreviaturas se llama emmet 
+
+- un sitio responsibo se adapta a los distintos espacios en pantalla 
+
+- la semantica le da el significado 
+
+- hay distintos tipos de tablas
+
+- th = es para el encabezado de las columnas 
+
+-cuando se pone table>tr*2 = es como para decirle que multiplique las filas para tener 2 filas
+
+otro ejemplo seria table>tr*2
+
+- el signo de dollar $ lo que hace es ennumerar
+
+- h2{listas}+ol>li*10{Elemento $} esto es un emmet para crear listas ordenadas
+
+- p>ol>li*3{prueba}^ul>li*3{viñetas} = esto lo que hace con el signo de elevacion
+regrese al mismo nivel de la estructura anterior 
+
+el > significa que este al mismo nivel de la estructura 
+
+
